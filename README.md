@@ -1,2 +1,2 @@
 # NewProject
-The flag is InsecureDeploymentnGithub
+For CTF A70HA
